@@ -7,3 +7,5 @@ Use your creativity to make your Christmas atmosphere even more beautiful with t
 Check the Gerber file to download and more. Check it out!
 
 I made this PCB Christmas Ball using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IRG)
+
+![showcase](https://github.com/rkfael/PCB-Xmas-Ball/blob/main/XMAS_BALL_COVER_AND_BACK.png)
