@@ -1,20 +1,20 @@
-# PCB-Xmas-Ball
+# PCB-Xmas-Badge
 
-A creative PCB design of a Christmas Balls. You can also use this beatifull Xmas ball as a litlle keychain.
+A creative PCB design of a Christmas badge. You can also use this beautiful Xmas badge as a small keychain.
 
-Use your creativity to make your Christmas atmosphere even more beautiful with this little ornament.
+Use your creativity to make your Christmas atmosphere even more festive with this little ornament.
 
-Check the Gerber file to download and more. Check it out!
+Check the Gerber files to download and more. Check it out!
 
-I made this PCB Christmas Ball using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/?from=RMW)
+I designed this PCB Christmas badge using EasyEDA software and then ordered it online from [*JLCPCB*](https://jlcpcb.com/?from=RMW)
 
-You can order the fabrication according to your preferences of color, thickness, PCB material and more.
+You can order the fabrication according to your preferences for color, thickness, PCB material, and more.
 
 Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Xmas-Ball/blob/main/Gerber_JLCPCB_XMAS_CHALLENGE.zip)
 
 Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=f4fb9deab2634084881bcbebc9954a19)
 
-How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
+How to make a PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 **Figure 1 - Top/Bottom Side (EasyEDA)**
 ![showcase](https://github.com/rkfael/PCB-Xmas-Ball/blob/main/XMAS_BALL_COVER_AND_BACK.png)
@@ -27,8 +27,8 @@ How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 ## More about it:
 
-For more pictures and PCB Art ideas check my Instagram profile [@rkfaelpcb](https://instagram.com/rkfaelpcb)
+For more pictures and PCB Art ideas, check my Instagram profile [@rkfaelpcb](https://instagram.com/rkfaelpcb)
 
 ## YouTube channel:
 
-Subscribe at my [YouTube channel](https://www.youtube.com/channel/UCUXV45PUONuPi8HNMYXnK5g)
+Subscribe to my [YouTube channel](https://www.youtube.com/channel/UCUXV45PUONuPi8HNMYXnK5g)
