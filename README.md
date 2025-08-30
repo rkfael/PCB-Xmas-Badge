@@ -23,6 +23,8 @@ How to make a PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 ![showcase](https://github.com/rkfael/PCB-Xmas-Badge/blob/main/XMAS_BADGE%201.jpg)
 
+![showcase](https://github.com/rkfael/PCB-Xmas-Badge/blob/main/XMAS_BADGE%202.jpg)
+
 ![showcase](https://github.com/rkfael/PCB-Xmas-Ball/blob/main/Figure%201%20-%20Top%20Side.jpg)
 
 ![showcase](https://github.com/rkfael/PCB-Xmas-Ball/blob/main/Figure%202%20-%20Bottom%20Side.jpg)
